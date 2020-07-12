@@ -1,2 +1,2 @@
 # bayesian_group
-Bayesian group docmentation
+Bayesian group documentation
